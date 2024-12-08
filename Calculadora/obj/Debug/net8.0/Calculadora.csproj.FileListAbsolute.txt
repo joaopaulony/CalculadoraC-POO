@@ -12,3 +12,4 @@ C:\Users\JyOr\Documents\GitHub\CalculadoraC-POO\Calculadora\obj\Debug\net8.0\ref
 C:\Users\JyOr\Documents\GitHub\CalculadoraC-POO\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 C:\Users\JyOr\Documents\GitHub\CalculadoraC-POO\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 C:\Users\JyOr\Documents\GitHub\CalculadoraC-POO\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\JyOr\Documents\GitHub\CalculadoraC-POO\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
